@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:100px; float:left">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rodolfilho&theme=radical&mode=weekly" />
 <img width="45%" height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfilho&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
  </div>
