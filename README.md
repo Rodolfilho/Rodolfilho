@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- <! <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/> ->
+ <!- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/> -->
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rodolfo+Rocha;I'm+20+years+old;I'm+from+Brazil;I+student+in+computer+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
